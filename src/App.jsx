@@ -1,6 +1,8 @@
 import "./App.css";
 import Post from "./components/Post/Post";
-import user3Img from "../src/assets/Images/image-maxblagun.png";
+import user1Img from "../public/Images/image-amyrobson.png";
+import user2Img from "../public/Images/image-juliusomo.png"
+import user3Img from "../public/Images/image-maxblagun.png";
 import SendPost from "./components/SendPost/SendPost";
 import { useState} from "react";
 //import { useEffect } from "react";
@@ -22,7 +24,7 @@ function App() {
     id: 1,
     likes: 0,
     comments:[],
-    userimg:"src/assets/Images/image-amyrobson.png",
+    userimg:user1Img,
 
     username: "noha salim",
     userpost:
@@ -32,7 +34,7 @@ function App() {
     id: 2,
     likes: 0,
     comments:[],
-    userimg:"src/assets/Images/image-juliusomo.png",
+    userimg:user2Img,
 
     username: "ahmed salim",
     userpost:
@@ -42,7 +44,7 @@ function App() {
     id: 3,
     likes: 0,
     comments:[],
-    userimg:"src/assets/Images/image-maxblagun.png",
+    userimg:user3Img,
 
     username: "ammar salim",
     userpost:

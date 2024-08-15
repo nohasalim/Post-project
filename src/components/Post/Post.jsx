@@ -1,7 +1,7 @@
 import "./Post.css";
-import plusImg from "../../assets/Images/icon-plus.svg";
-import minusImg from "../../assets/Images/icon-minus.svg";
-import replyImg from "../../assets/Images/icon-reply.svg";
+import plusImg from "../../../public/Images/icon-plus.svg";
+import minusImg from "../../../public/Images/icon-minus.svg";
+import replyImg from "../../../public/Images/icon-reply.svg";
 import { useState } from "react";
 import AddNewComment from "../AddNewComment/AddNewComment";
 import CommentsWrapper from "../CommentsWrapper/CommentsWrapper";

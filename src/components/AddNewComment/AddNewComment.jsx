@@ -1,5 +1,5 @@
 import { useState } from "react";
-import img1 from "../../assets/Images/image-maxblagun.png";
+import img1 from "../../../public/Images/image-maxblagun.png";
 import "./AddNewComment.css";
 function AddNewComment(props) {
   const [newcomment, setnewcomment] = useState("");

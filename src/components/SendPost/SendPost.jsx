@@ -1,5 +1,5 @@
 import { useState } from "react";
-import user3Img from "../../assets/Images/image-maxblagun.png";
+import user3Img from "../../../public/Images/image-maxblagun.png";
 import './SendPost.css'
 function SendPost(props) {
     const [inputvalue,setinputvalue]=useState("")
