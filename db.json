@@ -1,0 +1,35 @@
+ 
+  {
+    "posts":[
+        {
+            "id": 1,
+            "likes": 0,
+            "comments":[],
+            "userimg":"src/assets/Images/image-amyrobson.png",
+
+            "username": "noha salim",
+            "userpost":
+              "post11111 Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis recusandae minus a aliquid et ipsa mollitia maiores, dignissimos minima consectetur labore eaque asperiores vitae. Ad dolorum similique asperiores praesentium iure!"
+          },
+          {
+            "id": 2,
+            "likes": 0,
+            "comments":[],
+            "userimg":"src/assets/Images/image-juliusomo.png",
+
+            "username": "ahmed salim",
+            "userpost":
+              "post22222 Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis recusandae minus a aliquid et ipsa mollitia maiores, dignissimos minima consectetur labore eaque asperiores vitae. Ad dolorum similique asperiores praesentium iure!"
+          },
+          {
+            "id": 3,
+            "likes": 0,
+            "comments":[],
+            "userimg":"src/assets/Images/image-maxblagun.png",
+
+            "username": "ammar salim",
+            "userpost":
+              "post33333 Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis recusandae minus a aliquid et ipsa mollitia maiores, dignissimos minima consectetur labore eaque asperiores vitae. Ad dolorum similique asperiores praesentium iure!"
+          }
+    ]
+  }
